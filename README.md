@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hey, I'm Showmit Ghosh!
 
-<!--
-**showmitg/showmitg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year CSE student at BRAC University  
+💡 Dreamer | Builder | Future AI SaaS Founder 🚀  
+---
 
-Here are some ideas to get you started:
+## 📚 What I’m Learning
+- Harvard CS50 (C Programming, Computer Science Foundations)
+- 100 Days of Code (Python)
+- DSA from TUF
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 2025 Goals
+- Launch my first SaaS MVP
+- Build 3 public coding projects
+- Start contributing to open source
+---
+
+## ⚡ Interests
+- AI & Automation  
+- Startups & Product Building  
+- Clean design + Strong storytelling  
+---
+
+## 🌐 Connect with Me
+- 💼 [LinkedIn]()
+- 📧 Email: ghoshshowmit@gmail.com
