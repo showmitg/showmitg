@@ -8,8 +8,8 @@
 - Harvard CS50 (C Programming, Computer Science Foundations)
 - JAVA (DSA + Dev)
 - Prep CP
-- 100 Days of Code (Python)
 - DSA from TUF
+- (Not started yet) 100 Days of Code (Python)
 ---
 
 ## 🛠 2025 Goals
