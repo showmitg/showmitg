@@ -6,9 +6,9 @@
 
 ## 📚 What I’m Learning
 - Harvard CS50 (C Programming, Computer Science Foundations)
-- JAVA (DSA + Dev)
-- Prep CP
-- DSA from TUF
+- JAVA (DSA + OOP)
+- DSA from TUF (currently in the basics)
+- Web development-</br> *Current Phase : Frontend basics </br> 
 - (Not started yet) 100 Days of Code (Python)
 ---
 
