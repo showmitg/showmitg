@@ -7,7 +7,8 @@
 
 ## ⚡ Interests
 - AI & Automation  
-- Startups & Product Building  
+- Startups & Product Building
+- Control Architecture 
 - Clean design + Strong storytelling  
 ---
 
