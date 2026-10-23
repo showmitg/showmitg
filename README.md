@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Showmit Ghosh!
+# 👋 Hey, Shwowmit here!
 
 🎓 CSE student at BRAC University  
 💡 Dreamer | Builder | Future SaaS Founder 🚀  
