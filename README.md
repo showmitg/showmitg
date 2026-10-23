@@ -13,5 +13,5 @@
 ---
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn]()
+- 💼 [LinkedIn](https://bd.linkedin.com/in/showmitghosh)
 - 📧 Email: ghoshshowmit@gmail.com
